@@ -1,4 +1,2 @@
 print('hello world')
-print('hello')
-
-print('test')
+print('why everyone use hello world?')
